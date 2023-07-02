@@ -42,6 +42,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'whitenoise.runserver_nostatic', # Whitenoise
     'django.contrib.staticfiles',
+
+    # Third party
+    'rest_framework',
+    'rest_framework_simplejwt',
+
+    # Local
+    'account.apps.AccountConfig',
 ]
 
 MIDDLEWARE = [
@@ -138,3 +145,51 @@ DATABASES['default'].update(db_from_env)
 
 # CSRF protection
 CSRF_TRUSTED_ORIGINS = ['https://tipstera.up.railway.app']
+
+
+# Account management
+
+AUTH_USER_MODEL = 'account.User'
+
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.ModelBackend',
+    'account.authentication.EmailAuthBackend',
+]
+
+
+# REST_FRAMEWORK JWT Authentication settings
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    )
+}
+
+from datetime import timedelta
+
+SIMPLE_JWT = {
+    # Token expiration settings
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
+    'ROTATE_REFRESH_TOKENS': False,
+    'BLACKLIST_AFTER_ROTATION': True,
+
+    # Custom user model
+    'USER_ID_FIELD': 'id',
+    'USER_ID_CLAIM': 'id',
+
+    # Token authentication failure handling
+    'AUTH_HEADER_TYPES': ('Bearer',),
+    'AUTH_HEADER_NAME': 'HTTP_AUTHORIZATION',
+    'AUTH_COOKIE_SECURE': True,
+    'AUTH_COOKIE_SAMESITE': 'Lax',
+    'AUTH_COOKIE_DOMAIN': 'https://tipstera.up.railway.app',
+    'AUTH_COOKIE_PATH': '/',
+    'AUTH_COOKIE_HTTPONLY': True,
+    'AUTH_COOKIE_MAX_AGE': None,
+}
+
+
+# Fixtures
+
+FIXTURE_DIRS = [BASE_DIR / 'fixtures']

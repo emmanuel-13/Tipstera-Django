@@ -1,0 +1,65 @@
+[
+{
+    "model": "account.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$yTcxmZ9IW5RPvEVb4yDLHq$8UEHA88E9lEFpGMm6uIMceMW8eqrvSCzqdsP1Ot/9IA=",
+        "last_login": "2023-07-02T06:28:04.093Z",
+        "is_superuser": true,
+        "username": "emediong5135",
+        "first_name": "",
+        "last_name": "",
+        "email": "emediong5135@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-07-02T06:25:50.591Z",
+        "profile_type": "bettor",
+        "phone_number": "",
+        "country": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "account.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$LcCTGApzoxQUZmPC4y5kLd$8mopOAl78tgcjAle47eYoqCSENDERwCy2+8HA0eIHOo=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "favour",
+        "first_name": "Favour",
+        "last_name": "Udoh",
+        "email": "favour@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-07-02T06:29:26.967Z",
+        "profile_type": "bettor",
+        "phone_number": "+2347068275370",
+        "country": "Nigeria",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "account.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$76q5xBvllDRWDZtX6zpaxI$ZqtKBPPkEneLrR4nalY2HQiugiZF8p6XDG2QsojthDk=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "emmanuel",
+        "first_name": "Emmanuel",
+        "last_name": "Udoh",
+        "email": "emmanuel@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-07-02T06:29:59.065Z",
+        "profile_type": "tipster",
+        "phone_number": "+2347065882266",
+        "country": "Nigeria",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
