@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     # Local
     'account.apps.AccountConfig',
+    'footballapp.apps.FootballappConfig',
 ]
 
 MIDDLEWARE = [
@@ -193,3 +194,8 @@ SIMPLE_JWT = {
 # Fixtures
 
 FIXTURE_DIRS = [BASE_DIR / 'fixtures']
+
+
+# API Token
+
+FOOTBALL_DATA_API_TOKEN = env.str('FOOTBALL_DATA_API_TOKEN')

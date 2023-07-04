@@ -1,0 +1,2450 @@
+[
+{
+    "model": "footballapp.area",
+    "pk": 2000,
+    "fields": {
+        "name": "Afghanistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2001,
+    "fields": {
+        "name": "Africa",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2002,
+    "fields": {
+        "name": "Albania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2004,
+    "fields": {
+        "name": "Algeria",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2005,
+    "fields": {
+        "name": "American Samoa",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2006,
+    "fields": {
+        "name": "Andorra",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2007,
+    "fields": {
+        "name": "Angola",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2008,
+    "fields": {
+        "name": "Anguilla",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2009,
+    "fields": {
+        "name": "Antigua and Barbuda",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2010,
+    "fields": {
+        "name": "Arameans Suryoye",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2011,
+    "fields": {
+        "name": "Argentina",
+        "code": null,
+        "flag": "https://crests.football-data.org/762.png"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2012,
+    "fields": {
+        "name": "Armenia",
+        "code": null,
+        "flag": "https://crests.football-data.org/1970.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2013,
+    "fields": {
+        "name": "Aruba",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2014,
+    "fields": {
+        "name": "Asia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2015,
+    "fields": {
+        "name": "Australia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2016,
+    "fields": {
+        "name": "Austria",
+        "code": null,
+        "flag": "https://crests.football-data.org/816.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2017,
+    "fields": {
+        "name": "Azerbaijan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2018,
+    "fields": {
+        "name": "Bahamas",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2019,
+    "fields": {
+        "name": "Bahrain",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2020,
+    "fields": {
+        "name": "Bangladesh",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2021,
+    "fields": {
+        "name": "Barbados",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2022,
+    "fields": {
+        "name": "Belarus",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2023,
+    "fields": {
+        "name": "Belgium",
+        "code": null,
+        "flag": "https://crests.football-data.org/805.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2024,
+    "fields": {
+        "name": "Belize",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2025,
+    "fields": {
+        "name": "Benin",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2026,
+    "fields": {
+        "name": "Bermuda",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2027,
+    "fields": {
+        "name": "Bhutan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2028,
+    "fields": {
+        "name": "Bolivia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2029,
+    "fields": {
+        "name": "Bonaire",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2030,
+    "fields": {
+        "name": "Bosnia and Herzegovina",
+        "code": null,
+        "flag": "https://crests.football-data.org/bosnia.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2031,
+    "fields": {
+        "name": "Botswana",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2032,
+    "fields": {
+        "name": "Brazil",
+        "code": null,
+        "flag": "https://crests.football-data.org/764.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2033,
+    "fields": {
+        "name": "British Virgin Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2034,
+    "fields": {
+        "name": "Brunei Darussalam",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2035,
+    "fields": {
+        "name": "Bulgaria",
+        "code": null,
+        "flag": "https://crests.football-data.org/817.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2036,
+    "fields": {
+        "name": "Burkina Faso",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2037,
+    "fields": {
+        "name": "Burundi",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2038,
+    "fields": {
+        "name": "Cambodia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2039,
+    "fields": {
+        "name": "Cameroon",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2040,
+    "fields": {
+        "name": "Canada",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2041,
+    "fields": {
+        "name": "Cape Verde Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2042,
+    "fields": {
+        "name": "Cayman Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2043,
+    "fields": {
+        "name": "Central African Republic",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2044,
+    "fields": {
+        "name": "Chad",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2045,
+    "fields": {
+        "name": "Chile",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2046,
+    "fields": {
+        "name": "China PR",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2047,
+    "fields": {
+        "name": "Chinese Taipei",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2048,
+    "fields": {
+        "name": "CIS",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2049,
+    "fields": {
+        "name": "Colombia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2050,
+    "fields": {
+        "name": "Comoros",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2051,
+    "fields": {
+        "name": "Congo",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2052,
+    "fields": {
+        "name": "Congo DR",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2053,
+    "fields": {
+        "name": "Cook Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2054,
+    "fields": {
+        "name": "Corsica",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2055,
+    "fields": {
+        "name": "Costa Rica",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2056,
+    "fields": {
+        "name": "Côte d’Ivoire",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2057,
+    "fields": {
+        "name": "Crimea",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2058,
+    "fields": {
+        "name": "Croatia",
+        "code": null,
+        "flag": "https://crests.football-data.org/799.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2059,
+    "fields": {
+        "name": "Cuba",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2060,
+    "fields": {
+        "name": "Curaçao",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2061,
+    "fields": {
+        "name": "Cyprus",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2062,
+    "fields": {
+        "name": "Czech Republic",
+        "code": null,
+        "flag": "https://crests.football-data.org/798.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2063,
+    "fields": {
+        "name": "Czechoslovakia",
+        "code": null,
+        "flag": "https://crests.football-data.org/798.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2064,
+    "fields": {
+        "name": "Darfur",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2065,
+    "fields": {
+        "name": "Denmark",
+        "code": null,
+        "flag": "https://crests.football-data.org/782.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2066,
+    "fields": {
+        "name": "Djibouti",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2067,
+    "fields": {
+        "name": "Dominica",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2068,
+    "fields": {
+        "name": "Dominican Republic",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2069,
+    "fields": {
+        "name": "Ecuador",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2070,
+    "fields": {
+        "name": "Egypt",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2071,
+    "fields": {
+        "name": "El Salvador",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2072,
+    "fields": {
+        "name": "England",
+        "code": null,
+        "flag": "https://crests.football-data.org/770.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2073,
+    "fields": {
+        "name": "Equatorial Guinea",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2074,
+    "fields": {
+        "name": "Eritrea",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2075,
+    "fields": {
+        "name": "Estonia",
+        "code": null,
+        "flag": "https://crests.football-data.org/estonia.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2076,
+    "fields": {
+        "name": "Ethiopia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2077,
+    "fields": {
+        "name": "Europe",
+        "code": null,
+        "flag": "https://crests.football-data.org/EUR.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2078,
+    "fields": {
+        "name": "Faroe Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2079,
+    "fields": {
+        "name": "Fiji",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2080,
+    "fields": {
+        "name": "Finland",
+        "code": null,
+        "flag": "https://crests.football-data.org/1976.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2081,
+    "fields": {
+        "name": "France",
+        "code": null,
+        "flag": "https://crests.football-data.org/773.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2082,
+    "fields": {
+        "name": "French Guiana",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2083,
+    "fields": {
+        "name": "FYR Macedonia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2084,
+    "fields": {
+        "name": "Gabon",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2085,
+    "fields": {
+        "name": "Gambia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2086,
+    "fields": {
+        "name": "GDR",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2087,
+    "fields": {
+        "name": "Georgia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2088,
+    "fields": {
+        "name": "Germany",
+        "code": null,
+        "flag": "https://crests.football-data.org/759.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2089,
+    "fields": {
+        "name": "Ghana",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2090,
+    "fields": {
+        "name": "Gibraltar",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2091,
+    "fields": {
+        "name": "Gozo",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2092,
+    "fields": {
+        "name": "Great Britain",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2093,
+    "fields": {
+        "name": "Greece",
+        "code": null,
+        "flag": "https://crests.football-data.org/775.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2094,
+    "fields": {
+        "name": "Greenland",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2095,
+    "fields": {
+        "name": "Grenada",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2096,
+    "fields": {
+        "name": "Guadeloupe",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2097,
+    "fields": {
+        "name": "Guam",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2098,
+    "fields": {
+        "name": "Guatemala",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2099,
+    "fields": {
+        "name": "Guernsey",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2100,
+    "fields": {
+        "name": "Guinea",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2101,
+    "fields": {
+        "name": "Guinea-Bissau",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2102,
+    "fields": {
+        "name": "Guyana",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2103,
+    "fields": {
+        "name": "Haiti",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2104,
+    "fields": {
+        "name": "Honduras",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2105,
+    "fields": {
+        "name": "Hong Kong",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2106,
+    "fields": {
+        "name": "Hungary",
+        "code": null,
+        "flag": "https://crests.football-data.org/827.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2107,
+    "fields": {
+        "name": "Iceland",
+        "code": null,
+        "flag": "https://crests.football-data.org/iceland.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2108,
+    "fields": {
+        "name": "India",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2109,
+    "fields": {
+        "name": "Indonesia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2110,
+    "fields": {
+        "name": "Iran",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2111,
+    "fields": {
+        "name": "Iraq",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2112,
+    "fields": {
+        "name": "Isle of Man",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2113,
+    "fields": {
+        "name": "Israel",
+        "code": null,
+        "flag": "https://crests.football-data.org/israel.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2114,
+    "fields": {
+        "name": "Italy",
+        "code": null,
+        "flag": "https://crests.football-data.org/784.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2115,
+    "fields": {
+        "name": "Jamaica",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2116,
+    "fields": {
+        "name": "Japan",
+        "code": null,
+        "flag": "https://crests.football-data.org/JAP.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2117,
+    "fields": {
+        "name": "Jersey",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2118,
+    "fields": {
+        "name": "Jordan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2119,
+    "fields": {
+        "name": "Kazakhstan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2120,
+    "fields": {
+        "name": "Kenya",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2121,
+    "fields": {
+        "name": "Kiribati",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2122,
+    "fields": {
+        "name": "Korea DPR",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2123,
+    "fields": {
+        "name": "Korea Republic",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2124,
+    "fields": {
+        "name": "Kosovo",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2125,
+    "fields": {
+        "name": "Kurdistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2126,
+    "fields": {
+        "name": "Kuwait",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2127,
+    "fields": {
+        "name": "Kyrgyzstan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2128,
+    "fields": {
+        "name": "Laos",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2129,
+    "fields": {
+        "name": "Latvia",
+        "code": null,
+        "flag": "https://crests.football-data.org/latvia.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2130,
+    "fields": {
+        "name": "Lebanon",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2131,
+    "fields": {
+        "name": "Lesotho",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2132,
+    "fields": {
+        "name": "Liberia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2133,
+    "fields": {
+        "name": "Libya",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2134,
+    "fields": {
+        "name": "Liechtenstein",
+        "code": null,
+        "flag": "https://crests.football-data.org/1982.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2135,
+    "fields": {
+        "name": "Lithuania",
+        "code": null,
+        "flag": "https://crests.football-data.org/1983.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2136,
+    "fields": {
+        "name": "Luxembourg",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2137,
+    "fields": {
+        "name": "Macao",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2138,
+    "fields": {
+        "name": "Madagascar",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2139,
+    "fields": {
+        "name": "Malawi",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2140,
+    "fields": {
+        "name": "Malaysia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2141,
+    "fields": {
+        "name": "Maldives",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2142,
+    "fields": {
+        "name": "Mali",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2143,
+    "fields": {
+        "name": "Malta",
+        "code": null,
+        "flag": "https://crests.football-data.org/malta.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2144,
+    "fields": {
+        "name": "Marshall Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2145,
+    "fields": {
+        "name": "Martinique",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2146,
+    "fields": {
+        "name": "Mauritania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2147,
+    "fields": {
+        "name": "Mauritius",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2148,
+    "fields": {
+        "name": "Mayotte",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2149,
+    "fields": {
+        "name": "Mexico",
+        "code": null,
+        "flag": "https://crests.football-data.org/mexico.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2150,
+    "fields": {
+        "name": "Micronesia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2151,
+    "fields": {
+        "name": "Moldova",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2152,
+    "fields": {
+        "name": "Monaco",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2153,
+    "fields": {
+        "name": "Mongolia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2154,
+    "fields": {
+        "name": "Montenegro",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2155,
+    "fields": {
+        "name": "Montserrat",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2156,
+    "fields": {
+        "name": "Morocco",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2157,
+    "fields": {
+        "name": "Mozambique",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2158,
+    "fields": {
+        "name": "Myanmar",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2159,
+    "fields": {
+        "name": "N/C America",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2160,
+    "fields": {
+        "name": "Namibia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2161,
+    "fields": {
+        "name": "Nauru",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2162,
+    "fields": {
+        "name": "Nepal",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2163,
+    "fields": {
+        "name": "Netherlands",
+        "code": null,
+        "flag": "https://crests.football-data.org/8601.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2164,
+    "fields": {
+        "name": "New Caledonia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2165,
+    "fields": {
+        "name": "New Zealand",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2166,
+    "fields": {
+        "name": "NF-Board",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2167,
+    "fields": {
+        "name": "Nicaragua",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2168,
+    "fields": {
+        "name": "Niger",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2169,
+    "fields": {
+        "name": "Nigeria",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2170,
+    "fields": {
+        "name": "Niue",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2171,
+    "fields": {
+        "name": "Northern Ireland",
+        "code": null,
+        "flag": "https://crests.football-data.org/829.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2172,
+    "fields": {
+        "name": "Northern Mariana Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2173,
+    "fields": {
+        "name": "Norway",
+        "code": null,
+        "flag": "https://crests.football-data.org/813.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2174,
+    "fields": {
+        "name": "Occitania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2175,
+    "fields": {
+        "name": "Oceania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2176,
+    "fields": {
+        "name": "Oman",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2177,
+    "fields": {
+        "name": "Padania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2178,
+    "fields": {
+        "name": "Pakistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2179,
+    "fields": {
+        "name": "Palau",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2180,
+    "fields": {
+        "name": "Palestine",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2181,
+    "fields": {
+        "name": "Panama",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2182,
+    "fields": {
+        "name": "Papua New Guinea",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2183,
+    "fields": {
+        "name": "Paraguay",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2184,
+    "fields": {
+        "name": "Peru",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2185,
+    "fields": {
+        "name": "Philippines",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2186,
+    "fields": {
+        "name": "Poland",
+        "code": null,
+        "flag": "https://crests.football-data.org/794.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2187,
+    "fields": {
+        "name": "Portugal",
+        "code": null,
+        "flag": "https://crests.football-data.org/765.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2188,
+    "fields": {
+        "name": "Provence",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2189,
+    "fields": {
+        "name": "Puerto Rico",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2190,
+    "fields": {
+        "name": "Qatar",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2191,
+    "fields": {
+        "name": "Raetia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2192,
+    "fields": {
+        "name": "Republic of Ireland",
+        "code": null,
+        "flag": "https://crests.football-data.org/806.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2193,
+    "fields": {
+        "name": "Reunion",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2194,
+    "fields": {
+        "name": "Romania",
+        "code": null,
+        "flag": "https://crests.football-data.org/811.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2195,
+    "fields": {
+        "name": "Russia",
+        "code": null,
+        "flag": "https://crests.football-data.org/808.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2196,
+    "fields": {
+        "name": "Rwanda",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2197,
+    "fields": {
+        "name": "Saint Martin",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2198,
+    "fields": {
+        "name": "Saint Pierre and Miquelon",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2199,
+    "fields": {
+        "name": "Samoa",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2200,
+    "fields": {
+        "name": "San Marino",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2201,
+    "fields": {
+        "name": "São Tomé e Príncipe",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2202,
+    "fields": {
+        "name": "Sápmi",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2203,
+    "fields": {
+        "name": "Saudi Arabia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2204,
+    "fields": {
+        "name": "Scotland",
+        "code": null,
+        "flag": "https://crests.football-data.org/814.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2205,
+    "fields": {
+        "name": "Senegal",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2206,
+    "fields": {
+        "name": "Serbia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2207,
+    "fields": {
+        "name": "Serbia and Montenegro",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2208,
+    "fields": {
+        "name": "Seychelles",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2209,
+    "fields": {
+        "name": "Shetland",
+        "code": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Shetland.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2210,
+    "fields": {
+        "name": "Sierra Leone",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2211,
+    "fields": {
+        "name": "Singapore",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2212,
+    "fields": {
+        "name": "Sint Eustatius",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2213,
+    "fields": {
+        "name": "Sint Maarten",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2214,
+    "fields": {
+        "name": "Slovakia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2215,
+    "fields": {
+        "name": "Slovenia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2216,
+    "fields": {
+        "name": "Solomon Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2217,
+    "fields": {
+        "name": "Somalia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2218,
+    "fields": {
+        "name": "Somaliland",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2219,
+    "fields": {
+        "name": "South Africa",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2220,
+    "fields": {
+        "name": "South America",
+        "code": null,
+        "flag": "https://crests.football-data.org/CLI.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2221,
+    "fields": {
+        "name": "South Sudan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2222,
+    "fields": {
+        "name": "Southern Cameroon",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2223,
+    "fields": {
+        "name": "Soviet Union",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2224,
+    "fields": {
+        "name": "Spain",
+        "code": null,
+        "flag": "https://crests.football-data.org/760.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2225,
+    "fields": {
+        "name": "Sri Lanka",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2226,
+    "fields": {
+        "name": "St. Helena",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2227,
+    "fields": {
+        "name": "St. Kitts and Nevis",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2228,
+    "fields": {
+        "name": "St. Lucia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2229,
+    "fields": {
+        "name": "St. Vincent and the Grenadines",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2230,
+    "fields": {
+        "name": "Sudan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2231,
+    "fields": {
+        "name": "Suriname",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2232,
+    "fields": {
+        "name": "Swaziland",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2233,
+    "fields": {
+        "name": "Sweden",
+        "code": null,
+        "flag": "https://crests.football-data.org/792.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2234,
+    "fields": {
+        "name": "Switzerland",
+        "code": null,
+        "flag": "https://crests.football-data.org/788.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2235,
+    "fields": {
+        "name": "Syria",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2236,
+    "fields": {
+        "name": "Tahiti",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2237,
+    "fields": {
+        "name": "Tajikistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2238,
+    "fields": {
+        "name": "Tamil Eelam",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2239,
+    "fields": {
+        "name": "Tanzania",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2240,
+    "fields": {
+        "name": "Thailand",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2241,
+    "fields": {
+        "name": "Timor-Leste",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2242,
+    "fields": {
+        "name": "Togo",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2243,
+    "fields": {
+        "name": "Tonga",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2244,
+    "fields": {
+        "name": "TR Northern Cyprus",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2245,
+    "fields": {
+        "name": "Trinidad and Tobago",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2246,
+    "fields": {
+        "name": "Tunisia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2247,
+    "fields": {
+        "name": "Turkey",
+        "code": null,
+        "flag": "https://crests.football-data.org/803.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2248,
+    "fields": {
+        "name": "Turkmenistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2249,
+    "fields": {
+        "name": "Turks and Caicos Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2250,
+    "fields": {
+        "name": "Tuvalu",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2251,
+    "fields": {
+        "name": "Two Sicilies",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2252,
+    "fields": {
+        "name": "Uganda",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2253,
+    "fields": {
+        "name": "Ukraine",
+        "code": null,
+        "flag": "https://crests.football-data.org/790.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2254,
+    "fields": {
+        "name": "United Arab Emirates",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2255,
+    "fields": {
+        "name": "United Kingdom",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2256,
+    "fields": {
+        "name": "United States",
+        "code": null,
+        "flag": "https://crests.football-data.org/usa.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2257,
+    "fields": {
+        "name": "Uruguay",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2258,
+    "fields": {
+        "name": "US Virgin Islands",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2259,
+    "fields": {
+        "name": "Uzbekistan",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2260,
+    "fields": {
+        "name": "Vanuatu",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2261,
+    "fields": {
+        "name": "Vatican City",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2262,
+    "fields": {
+        "name": "Venezuela",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2263,
+    "fields": {
+        "name": "Vietnam",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2264,
+    "fields": {
+        "name": "Wales",
+        "code": null,
+        "flag": "https://crests.football-data.org/833.svg"
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2265,
+    "fields": {
+        "name": "West Indies",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2266,
+    "fields": {
+        "name": "Western Sahara",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2267,
+    "fields": {
+        "name": "World",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2268,
+    "fields": {
+        "name": "Yemen",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2269,
+    "fields": {
+        "name": "Yugoslavia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2270,
+    "fields": {
+        "name": "Zambia",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2271,
+    "fields": {
+        "name": "Zanzibar",
+        "code": null,
+        "flag": null
+    }
+},
+{
+    "model": "footballapp.area",
+    "pk": 2272,
+    "fields": {
+        "name": "Zimbabwe",
+        "code": null,
+        "flag": null
+    }
+}
+]

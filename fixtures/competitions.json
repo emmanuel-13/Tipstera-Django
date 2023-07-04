@@ -1,0 +1,1722 @@
+[
+{
+    "model": "footballapp.competition",
+    "pk": 2000,
+    "fields": {
+        "area": 2267,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "emblem": "https://crests.football-data.org/qatar.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2001,
+    "fields": {
+        "area": 2077,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "emblem": "https://crests.football-data.org/CL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2002,
+    "fields": {
+        "area": 2088,
+        "name": "Bundesliga",
+        "code": "BL1",
+        "emblem": "https://crests.football-data.org/BL1.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2003,
+    "fields": {
+        "area": 2163,
+        "name": "Eredivisie",
+        "code": "DED",
+        "emblem": "https://crests.football-data.org/ED.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2004,
+    "fields": {
+        "area": 2088,
+        "name": "2. Bundesliga",
+        "code": "BL2",
+        "emblem": "https://crests.football-data.org/BL2.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2005,
+    "fields": {
+        "area": 2163,
+        "name": "Eerste Divisie",
+        "code": "DJL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2006,
+    "fields": {
+        "area": 2001,
+        "name": "WC Qualification CAF",
+        "code": "QCAF",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2007,
+    "fields": {
+        "area": 2077,
+        "name": "WC Qualification UEFA",
+        "code": "QUFA",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2008,
+    "fields": {
+        "area": 2015,
+        "name": "A League",
+        "code": "AAL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2009,
+    "fields": {
+        "area": 2023,
+        "name": "Jupiler Pro League",
+        "code": "BJL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2010,
+    "fields": {
+        "area": 2023,
+        "name": "Supercoupe de Belgique",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2011,
+    "fields": {
+        "area": 2088,
+        "name": "DFB-Pokal",
+        "code": "DFB",
+        "emblem": "https://crests.football-data.org/DFB_CUP.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2012,
+    "fields": {
+        "area": 2016,
+        "name": "Bundesliga",
+        "code": "ABL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2013,
+    "fields": {
+        "area": 2032,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "emblem": "https://crests.football-data.org/764.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2014,
+    "fields": {
+        "area": 2224,
+        "name": "Primera Division",
+        "code": "PD",
+        "emblem": "https://crests.football-data.org/PD.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2015,
+    "fields": {
+        "area": 2081,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "emblem": "https://crests.football-data.org/FL1.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2016,
+    "fields": {
+        "area": 2072,
+        "name": "Championship",
+        "code": "ELC",
+        "emblem": "https://crests.football-data.org/ELC.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2017,
+    "fields": {
+        "area": 2187,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "emblem": "https://crests.football-data.org/PPL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2018,
+    "fields": {
+        "area": 2077,
+        "name": "European Championship",
+        "code": "EC",
+        "emblem": "https://crests.football-data.org/EUR.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2019,
+    "fields": {
+        "area": 2114,
+        "name": "Serie A",
+        "code": "SA",
+        "emblem": "https://crests.football-data.org/SA.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2020,
+    "fields": {
+        "area": 2016,
+        "name": "Erste Liga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2021,
+    "fields": {
+        "area": 2072,
+        "name": "Premier League",
+        "code": "PL",
+        "emblem": "https://crests.football-data.org/PL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2022,
+    "fields": {
+        "area": 2016,
+        "name": "Playoffs 1/2",
+        "code": "APL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2023,
+    "fields": {
+        "area": 2011,
+        "name": "Primera B Nacional",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2024,
+    "fields": {
+        "area": 2011,
+        "name": "Liga Profesional",
+        "code": "ASL",
+        "emblem": "https://crests.football-data.org/LPDF.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2025,
+    "fields": {
+        "area": 2011,
+        "name": "Supercopa Argentina",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2026,
+    "fields": {
+        "area": 2015,
+        "name": "FFA Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2027,
+    "fields": {
+        "area": 2016,
+        "name": "ÖFB Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2028,
+    "fields": {
+        "area": 2023,
+        "name": "Coupe de Belgique",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2029,
+    "fields": {
+        "area": 2032,
+        "name": "Campeonato Brasileiro Série B",
+        "code": "BSB",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2030,
+    "fields": {
+        "area": 2072,
+        "name": "League One",
+        "code": "EL1",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2031,
+    "fields": {
+        "area": 2080,
+        "name": "Veikkausliiga",
+        "code": "VEI",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2032,
+    "fields": {
+        "area": 2023,
+        "name": "Playoffs",
+        "code": "BJPP",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2033,
+    "fields": {
+        "area": 2023,
+        "name": "Division 1B",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2034,
+    "fields": {
+        "area": 2028,
+        "name": "LFPB",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2035,
+    "fields": {
+        "area": 2030,
+        "name": "Premier Liga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2036,
+    "fields": {
+        "area": 2032,
+        "name": "Série C",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2037,
+    "fields": {
+        "area": 2032,
+        "name": "Copa do Brasil",
+        "code": "CDB",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2038,
+    "fields": {
+        "area": 2032,
+        "name": "Série D",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2039,
+    "fields": {
+        "area": 2035,
+        "name": "Kupa na Bulgarija",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2040,
+    "fields": {
+        "area": 2035,
+        "name": "A PFG",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2041,
+    "fields": {
+        "area": 2040,
+        "name": "Canadian Championship",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2042,
+    "fields": {
+        "area": 2045,
+        "name": "Playoffs 1/2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2043,
+    "fields": {
+        "area": 2045,
+        "name": "Supercopa de Chile",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2044,
+    "fields": {
+        "area": 2046,
+        "name": "Chinese Super League",
+        "code": "CSL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2045,
+    "fields": {
+        "area": 2049,
+        "name": "Liga Postobón",
+        "code": "CLP",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2046,
+    "fields": {
+        "area": 2049,
+        "name": "Superliga de Colombia",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2047,
+    "fields": {
+        "area": 2058,
+        "name": "Prva Liga",
+        "code": "PRVA",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2048,
+    "fields": {
+        "area": 2045,
+        "name": "Primera División",
+        "code": "CPD",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2049,
+    "fields": {
+        "area": 2062,
+        "name": "Synot Liga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2050,
+    "fields": {
+        "area": 2065,
+        "name": "Superliga",
+        "code": "DSU",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2051,
+    "fields": {
+        "area": 2065,
+        "name": "DBU Pokalen",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2052,
+    "fields": {
+        "area": 2069,
+        "name": "Copa Pilsener Serie A",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2053,
+    "fields": {
+        "area": 2072,
+        "name": "National League",
+        "code": "ENL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2054,
+    "fields": {
+        "area": 2072,
+        "name": "League Two",
+        "code": "EL2",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2055,
+    "fields": {
+        "area": 2072,
+        "name": "FA Cup",
+        "code": "FAC",
+        "emblem": "https://crests.football-data.org/FA_CUP.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2056,
+    "fields": {
+        "area": 2072,
+        "name": "FA Community Shield",
+        "code": "COM",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2057,
+    "fields": {
+        "area": 2075,
+        "name": "Meistriliiga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2058,
+    "fields": {
+        "area": 2077,
+        "name": "UEFA Women's EURO",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2059,
+    "fields": {
+        "area": 2080,
+        "name": "Suomen Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2060,
+    "fields": {
+        "area": 2264,
+        "name": "Welsh Premier League",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2061,
+    "fields": {
+        "area": 2263,
+        "name": "V-League",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2062,
+    "fields": {
+        "area": 2262,
+        "name": "Primera División",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2063,
+    "fields": {
+        "area": 2257,
+        "name": "Primera División",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2064,
+    "fields": {
+        "area": 2253,
+        "name": "Premier Liha",
+        "code": "UPL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2065,
+    "fields": {
+        "area": 2253,
+        "name": "Kubok Ukrainy",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2066,
+    "fields": {
+        "area": 2253,
+        "name": "Playoffs 1/2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2067,
+    "fields": {
+        "area": 2253,
+        "name": "Superkubok Ukrainy",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2068,
+    "fields": {
+        "area": 2247,
+        "name": "1. Lig",
+        "code": "T1L",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2069,
+    "fields": {
+        "area": 2247,
+        "name": "TFF Süper Kupa",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2070,
+    "fields": {
+        "area": 2247,
+        "name": "Süper Lig",
+        "code": "TSL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2071,
+    "fields": {
+        "area": 2234,
+        "name": "Schweizer Pokal",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2072,
+    "fields": {
+        "area": 2234,
+        "name": "Super League",
+        "code": "SSL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2073,
+    "fields": {
+        "area": 2233,
+        "name": "Allsvenskan",
+        "code": "ALL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2074,
+    "fields": {
+        "area": 2233,
+        "name": "Superettan",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2075,
+    "fields": {
+        "area": 2233,
+        "name": "Playoffs 2/3",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2076,
+    "fields": {
+        "area": 2233,
+        "name": "Playoffs 1/2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2077,
+    "fields": {
+        "area": 2224,
+        "name": "Segunda División",
+        "code": "SD",
+        "emblem": "https://crests.football-data.org/SD.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2078,
+    "fields": {
+        "area": 2224,
+        "name": "Supercopa de España",
+        "code": "SDE",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2079,
+    "fields": {
+        "area": 2224,
+        "name": "Copa del Rey",
+        "code": "CDR",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2080,
+    "fields": {
+        "area": 2220,
+        "name": "Copa America",
+        "code": "CA",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2081,
+    "fields": {
+        "area": 2220,
+        "name": "Copa Sudamericana",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2082,
+    "fields": {
+        "area": 2220,
+        "name": "WC Qualification CONMEBOL",
+        "code": "QCBL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2083,
+    "fields": {
+        "area": 2219,
+        "name": "ABSA Premiership",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2084,
+    "fields": {
+        "area": 2204,
+        "name": "Premier League",
+        "code": "SPL",
+        "emblem": "https://crests.football-data.org/SPL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2085,
+    "fields": {
+        "area": 2204,
+        "name": "Championship",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2086,
+    "fields": {
+        "area": 2204,
+        "name": "Playoffs 2/3",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2087,
+    "fields": {
+        "area": 2204,
+        "name": "Scottish Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2088,
+    "fields": {
+        "area": 2195,
+        "name": "FNL",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2089,
+    "fields": {
+        "area": 2195,
+        "name": "Russian Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2090,
+    "fields": {
+        "area": 2195,
+        "name": "Playoffs 1/2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2091,
+    "fields": {
+        "area": 2195,
+        "name": "Russian Super Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2092,
+    "fields": {
+        "area": 2194,
+        "name": "Liga II",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2093,
+    "fields": {
+        "area": 2194,
+        "name": "Supercupa României",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2094,
+    "fields": {
+        "area": 2194,
+        "name": "Liga I",
+        "code": "RL1",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2095,
+    "fields": {
+        "area": 2192,
+        "name": "Premier Division",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2096,
+    "fields": {
+        "area": 2187,
+        "name": "Liga2 Cabovisão",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2097,
+    "fields": {
+        "area": 2187,
+        "name": "Supertaça Cândido de Oliveira",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2098,
+    "fields": {
+        "area": 2187,
+        "name": "Taça de Portugal",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2099,
+    "fields": {
+        "area": 2186,
+        "name": "Superpuchar Polski",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2100,
+    "fields": {
+        "area": 2186,
+        "name": "Puchar Polski",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2101,
+    "fields": {
+        "area": 2184,
+        "name": "Primera División",
+        "code": "PPD",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2102,
+    "fields": {
+        "area": 2181,
+        "name": "Liga Panameña de Fútbol",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2103,
+    "fields": {
+        "area": 2175,
+        "name": "WC Qualification OFC",
+        "code": "QOFC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2104,
+    "fields": {
+        "area": 2173,
+        "name": "Playoffs 1/2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2105,
+    "fields": {
+        "area": 2173,
+        "name": "1. divisjon",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2106,
+    "fields": {
+        "area": 2173,
+        "name": "Tippeligaen",
+        "code": "TIP",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2107,
+    "fields": {
+        "area": 2171,
+        "name": "Premiership",
+        "code": "NIP",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2108,
+    "fields": {
+        "area": 2171,
+        "name": "League Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2109,
+    "fields": {
+        "area": 2163,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2110,
+    "fields": {
+        "area": 2163,
+        "name": "Johan Cruijff Schaal",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2111,
+    "fields": {
+        "area": 2149,
+        "name": "Copa MX",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2112,
+    "fields": {
+        "area": 2149,
+        "name": "SuperCopa MX",
+        "code": "SCMX",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2113,
+    "fields": {
+        "area": 2149,
+        "name": "Liga MX",
+        "code": "LMX",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2114,
+    "fields": {
+        "area": 2143,
+        "name": "Premier League",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2115,
+    "fields": {
+        "area": 2135,
+        "name": "A Lyga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2116,
+    "fields": {
+        "area": 2129,
+        "name": "Virsliga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2117,
+    "fields": {
+        "area": 2116,
+        "name": "J. League Division 2",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2118,
+    "fields": {
+        "area": 2116,
+        "name": "J.League Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2119,
+    "fields": {
+        "area": 2116,
+        "name": "J. League",
+        "code": "JJL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2120,
+    "fields": {
+        "area": 2116,
+        "name": "Super Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2121,
+    "fields": {
+        "area": 2114,
+        "name": "Serie B",
+        "code": "SB",
+        "emblem": "https://crests.football-data.org/SB.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2122,
+    "fields": {
+        "area": 2114,
+        "name": "Coppa Italia",
+        "code": "CIT",
+        "emblem": "https://crests.football-data.org/CIT.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2123,
+    "fields": {
+        "area": 2114,
+        "name": "Serie C",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2124,
+    "fields": {
+        "area": 2114,
+        "name": "Supercoppa",
+        "code": "ISC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2125,
+    "fields": {
+        "area": 2113,
+        "name": "Ligat ha'Al",
+        "code": "ILH",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2126,
+    "fields": {
+        "area": 2108,
+        "name": "I-League",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2127,
+    "fields": {
+        "area": 2107,
+        "name": "Úrvalsdeild",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2128,
+    "fields": {
+        "area": 2106,
+        "name": "NB I",
+        "code": "HNB",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2129,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga",
+        "code": "REG",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2130,
+    "fields": {
+        "area": 2106,
+        "name": "Magyar Kupa",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2131,
+    "fields": {
+        "area": 2093,
+        "name": "Greek Cup",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2132,
+    "fields": {
+        "area": 2093,
+        "name": "Super League",
+        "code": "GSL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2133,
+    "fields": {
+        "area": 2088,
+        "name": "Frauen Bundesliga",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2134,
+    "fields": {
+        "area": 2088,
+        "name": "DFL Super Cup",
+        "code": "GSC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2135,
+    "fields": {
+        "area": 2081,
+        "name": "Coupe de la Ligue",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2136,
+    "fields": {
+        "area": 2081,
+        "name": "Trophée des Champions",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2137,
+    "fields": {
+        "area": 2195,
+        "name": "RFPL",
+        "code": "RFPL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2138,
+    "fields": {
+        "area": 2081,
+        "name": "Coupe de France",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2139,
+    "fields": {
+        "area": 2072,
+        "name": "Football League Cup",
+        "code": "FLC",
+        "emblem": "https://crests.football-data.org/FLC.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2140,
+    "fields": {
+        "area": 2088,
+        "name": "3. Bundesliga",
+        "code": "BL3",
+        "emblem": "https://crests.football-data.org/BL3.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2141,
+    "fields": {
+        "area": 2065,
+        "name": "Euro League - Playoff",
+        "code": "DELP",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2142,
+    "fields": {
+        "area": 2081,
+        "name": "Ligue 2",
+        "code": "FL2",
+        "emblem": "https://crests.football-data.org/FL2.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2143,
+    "fields": {
+        "area": 2081,
+        "name": "Playoffs 1/2",
+        "code": "FPL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2144,
+    "fields": {
+        "area": 2081,
+        "name": "Playoffs 2/3",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2145,
+    "fields": {
+        "area": 2256,
+        "name": "MLS",
+        "code": "MLS",
+        "emblem": "https://crests.football-data.org/MLS.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2146,
+    "fields": {
+        "area": 2077,
+        "name": "UEFA Europa League",
+        "code": "EL",
+        "emblem": "https://crests.football-data.org/EL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2147,
+    "fields": {
+        "area": 2014,
+        "name": "WC Qualification AFC",
+        "code": "QAFC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2148,
+    "fields": {
+        "area": 2257,
+        "name": "Supercopa Uruguaya",
+        "code": "SUCU",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2149,
+    "fields": {
+        "area": 2011,
+        "name": "Copa Liga Profesional",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2150,
+    "fields": {
+        "area": 2093,
+        "name": "Souper Kap Ellados",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2151,
+    "fields": {
+        "area": 2233,
+        "name": "Svenska Supercupen",
+        "code": null,
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2152,
+    "fields": {
+        "area": 2220,
+        "name": "Copa Libertadores",
+        "code": "CLI",
+        "emblem": "https://crests.football-data.org/CLI.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2153,
+    "fields": {
+        "area": 2267,
+        "name": "Summer Olympics",
+        "code": "OLY",
+        "emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2154,
+    "fields": {
+        "area": 2077,
+        "name": "UEFA Conference League",
+        "code": "UCL",
+        "emblem": "https://crests.football-data.org/UCL.png"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2155,
+    "fields": {
+        "area": 2267,
+        "name": "WC Qualification CONCACAF",
+        "code": "QCCF",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2156,
+    "fields": {
+        "area": 2088,
+        "name": "Relegation",
+        "code": "BLREL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2157,
+    "fields": {
+        "area": 2077,
+        "name": "Supercup",
+        "code": "ESC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2158,
+    "fields": {
+        "area": 2114,
+        "name": "Playoffs 1/2",
+        "code": "IPL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2159,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga Bayern",
+        "code": "RBY",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2160,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga Südwest",
+        "code": "RSW",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2161,
+    "fields": {
+        "area": 2108,
+        "name": "Indian Super League",
+        "code": "ISL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2162,
+    "fields": {
+        "area": 2114,
+        "name": "Serie C - Girone A",
+        "code": "ISCA",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2163,
+    "fields": {
+        "area": 2114,
+        "name": "Serie C - Girone B",
+        "code": "ISCB",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2164,
+    "fields": {
+        "area": 2114,
+        "name": "Serie C - Girone C",
+        "code": "ISCC",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2165,
+    "fields": {
+        "area": 2077,
+        "name": "European Championship Qualifiers",
+        "code": "ECQ",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2166,
+    "fields": {
+        "area": 2001,
+        "name": "AFC Champions League",
+        "code": "ACL",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2167,
+    "fields": {
+        "area": 2267,
+        "name": "FIFA Women's World Cup",
+        "code": "WCF",
+        "emblem": "https://crests.football-data.org/fwwc.svg"
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2168,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga West",
+        "code": "RLW",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2169,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga Nordost",
+        "code": "RNO",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2172,
+    "fields": {
+        "area": 2088,
+        "name": "Regionalliga Nord",
+        "code": "RLN",
+        "emblem": null
+    }
+},
+{
+    "model": "footballapp.competition",
+    "pk": 2173,
+    "fields": {
+        "area": 2215,
+        "name": "PrvaLiga",
+        "code": "SPRV",
+        "emblem": null
+    }
+}
+]
